@@ -1,0 +1,28 @@
+{
+  "name": "meeting-picker",
+  "version": "1.1.3",
+  "description": "",
+  "main": "meeting-picker.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "Rich Trott",
+  "license": "MIT",
+  "dependencies": {
+    "compute-stdev": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs/meeting-picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodejs/meeting-picker/issues"
+  },
+  "homepage": "https://github.com/nodejs/meeting-picker#readme",
+  "devDependencies": {
+    "standard": "^16.0.4"
+  },
+  "engines": {
+    "node": "12.x || 14.x || 16.x"
+  }
+}
